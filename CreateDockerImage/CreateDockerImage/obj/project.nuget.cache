@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gdRRX8c9ioltE0kuUTPTmhaIcIWouJJ+98mZWw8uZdOSeiSyP1ZPopfsJqxeqiPuPr/+TjvyxECRohK24v5BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uzmansistem\\Documents\\GitHub_Emrah\\DockerLearningRepo\\CreateDockerImage\\CreateDockerImage\\CreateDockerImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uzmansistem\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

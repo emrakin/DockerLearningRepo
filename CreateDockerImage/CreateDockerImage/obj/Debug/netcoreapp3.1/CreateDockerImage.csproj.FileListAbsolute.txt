@@ -1,0 +1,12 @@
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\bin\Debug\netcoreapp3.1\CreateDockerImage.exe
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\bin\Debug\netcoreapp3.1\CreateDockerImage.deps.json
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\bin\Debug\netcoreapp3.1\CreateDockerImage.runtimeconfig.json
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\bin\Debug\netcoreapp3.1\CreateDockerImage.runtimeconfig.dev.json
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\bin\Debug\netcoreapp3.1\CreateDockerImage.dll
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\bin\Debug\netcoreapp3.1\CreateDockerImage.pdb
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\obj\Debug\netcoreapp3.1\CreateDockerImage.csprojAssemblyReference.cache
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\obj\Debug\netcoreapp3.1\CreateDockerImage.AssemblyInfoInputs.cache
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\obj\Debug\netcoreapp3.1\CreateDockerImage.AssemblyInfo.cs
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\obj\Debug\netcoreapp3.1\CreateDockerImage.dll
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\obj\Debug\netcoreapp3.1\CreateDockerImage.pdb
+C:\Users\uzmansistem\Documents\GitHub_Emrah\DockerLearningRepo\CreateDockerImage\CreateDockerImage\obj\Debug\netcoreapp3.1\CreateDockerImage.genruntimeconfig.cache
